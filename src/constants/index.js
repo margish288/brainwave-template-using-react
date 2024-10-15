@@ -249,6 +249,7 @@ export const benefits = [
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
+    redirect: "/explore/ask-anything"
   },
   {
     id: "1",
